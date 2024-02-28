@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I`m ahmed naji ,programmer
-
+#### My name is Ahmed Naji, I'm 23 years old, and I'm from Sana'a, Yemen. I hold a bachelor's degree in Information Technology from [Andalus University of Science and Technology](http://www.andalusuniv.net/AUSTNEW/).
 <!--
 **Ahmed-naji/Ahmed-naji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmednaji2024?igsh=MXh0anVseWZ5MXJjdw==" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" height="30" width="40" /></a>
 </p>
 
 <!--aaaaaaa-->
