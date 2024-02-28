@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ahmednaji2024?igsh=MXh0anVseWZ5MXJjdw==" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://ahmednaji2000913@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=ahmednaji2000913@gmail.com&su=github-gimail&tf=cm" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="30" width="40" /></a>
 </p>
 
 <!--aaaaaaa-->
