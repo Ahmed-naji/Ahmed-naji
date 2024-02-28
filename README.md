@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
-
+## Skills 
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,react,laravel,html,css,js,cpp,flutter,php,py"/>
@@ -28,6 +27,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ahmednaji2024?igsh=MXh0anVseWZ5MXJjdw==" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://ahmednaji2000913@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="30" width="40" /></a>
 </p>
 
 <!--aaaaaaa-->
