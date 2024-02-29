@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 </p>
 
 <!--aaaaaaa-->
+## the languages using in repo 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-naji&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+## my Anurag's GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-naji&show_icons=true&theme=dark)
 
 
