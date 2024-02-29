@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-## I`m ahmed naji ,programmer
+## I’m Ahmed Naji ,programmer
 #### My name is Ahmed Naji, I'm 23 years old, and I'm from Sana'a, Yemen. I hold a bachelor's degree in Information Technology from [Andalus University of Science and Technology](http://www.andalusuniv.net/AUSTNEW/).
 <!--
 **Ahmed-naji/Ahmed-naji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
